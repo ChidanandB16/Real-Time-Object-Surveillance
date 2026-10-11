@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Videos
+*.mp4
+*.avi
+*.mpg
+*.mov
+
+# Datasets
+datasets/
+input/
+output/
+
+# YOLO weights
+models/*.pt
+reid/weights/
+
+# Logs
+logs/
+tracking_log.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
