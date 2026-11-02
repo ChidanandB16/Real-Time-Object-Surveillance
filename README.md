@@ -244,12 +244,6 @@ The major contributions of this work include:
 
 ---
 
-## Acknowledgements
-
-This project was developed as part of the Summer Internship at the **Centre of Cognitive Computing and Computational Intelligence (C3I), PES University** under the guidance of **Dr. Vaishali Shinde**.
-
----
-
 ## License
 
 This project is intended for academic and research purposes.
